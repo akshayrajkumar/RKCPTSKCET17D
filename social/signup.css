@@ -1,0 +1,35 @@
+body{
+     background-image: url(hero.jpg); 
+    color: aliceblue;
+}
+
+.login{
+   padding-top: 100px;
+    padding-right: 75px;
+}
+
+input[type=text] {
+    width: 250px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 6px;
+    float: left;
+
+}
+    input[type=password] {
+    width: 250px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 6px;
+}
+
+    input[type=submit] {
+    width: 100px;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+    border-radius: 7.5px;
+}
+
